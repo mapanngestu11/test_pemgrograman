@@ -1,0 +1,19 @@
+Penjelasan :
+
+1. Website menggunakan Framework Codeigniter 3.1
+2. Menggunakan php 5
+3. Fitur yg selesai di kerjakan
+	1. Data nasabah (V)
+	2. Data Transaksi (V)
+	3. Data Poin (X)
+	4. Data Laporan (X)
+
+4. File database ada di dalam folder db
+
+5.Waktu pengerjaan 
+	- 08/05/2023
+	- 12:00 s/d 15:00
+
+6. Identitas Programmer
+	- Nama : Maulana Agung Pangestu
+	- Wa   : 083877338448
